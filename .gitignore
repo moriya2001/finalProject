@@ -1,0 +1,25 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+
+/React/myapp/node_modules
+/React/myapp/.pnp
+/React/myapp/.pnp.js
+
+# testing
+/React/myapp/coverage
+
+# production
+/React/myapp/build
+
+# misc
+/React/myapp/.DS_Store
+/React/myapp/.env.local
+/React/myapp/.env.development.local
+/React/myapp/.env.test.local
+/React/myapp/.env.production.local
+
+/React/myapp/npm-debug.log*
+/React/myapp/yarn-debug.log*
+/React/myapp/yarn-error.log*
+/node_modules
